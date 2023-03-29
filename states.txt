@@ -1,0 +1,8 @@
+day
+Orange Yes No No Yes
+day
+Orange No No Yes No
+day
+Orange No No Yes Yes
+day
+Orange No No No No
